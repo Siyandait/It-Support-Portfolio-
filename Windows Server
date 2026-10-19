@@ -1,0 +1,41 @@
+Windows Server 2022 Lab
+
+Project Overview
+
+This project documents my practical IT Support training using Windows Server 2022 and VirtualBox.
+
+Lab Environment
+
+* Server: Windows Server 2022
+* Client: Windows 10
+* Virtualization: Oracle VirtualBox
+* Domain: banele.local
+
+Tasks Practised
+
+* Active Directory user and group management
+* Joining Windows computers to a domain
+* DNS configuration and troubleshooting
+* DHCP configuration
+* Group Policy management
+* User account permissions
+* Windows network troubleshooting
+
+Objectives
+
+1. Learn Windows Server administration.
+2. Practise managing users and groups in Active Directory.
+3. Understand DNS and DHCP services.
+4. Configure and test Group Policy settings.
+5. Troubleshoot Windows client connectivity.
+
+Skills Developed
+
+* Windows Server administration fundamentals
+* Active Directory management
+* Network troubleshooting
+* Technical documentation
+
+Results
+
+I am documenting my lab exercises as I complete and test each task. Screenshots and troubleshooting examples will be added as evidence of my practical work.
